@@ -5,7 +5,8 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to snake and ladder Game");
-            SnakeladderUseCaseOne.DisplayInitialPos();
+            // SnakeladderUseCaseOne.DisplayInitialPos();
+            SnakeladderUseCaseTwo.DiceRoll();
         }
     }
 }
