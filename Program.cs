@@ -7,7 +7,8 @@
             Console.WriteLine("Welcome to snake and ladder Game");
             // SnakeladderUseCaseOne.DisplayInitialPos();
             //SnakeladderUseCaseTwo.DiceRoll();
-            SnakeladderUseCaseThree.OptionCheckForLadderAndSnake();
+            //SnakeladderUseCaseThree.OptionCheckForLadderAndSnake();
+            SnakeladderUseCaseFour.WinningPosition();
         }
     }
 }
