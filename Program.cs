@@ -9,7 +9,8 @@
             //SnakeladderUseCaseTwo.DiceRoll();
             //SnakeladderUseCaseThree.OptionCheckForLadderAndSnake();
             //SnakeladderUseCaseFour.WinningPosition();
-            SnakeladderUseCaseFive.ExcatWinningPosition();
+            //SnakeladderUseCaseFive.ExcatWinningPosition();
+            SnakeladderUseCaseSix.TotalNumOfDiceRoll();
         }
     }
 }
